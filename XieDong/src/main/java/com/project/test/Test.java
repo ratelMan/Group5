@@ -1,6 +1,6 @@
-package com.project;
+package com.project.test;
 
-public class test {
+public class Test {
 
     public void test(){
 
